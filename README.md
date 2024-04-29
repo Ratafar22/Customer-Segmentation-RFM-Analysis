@@ -8,3 +8,6 @@ Some of its benefits include:
 -	Identifying customers to better promote and market your products and services.
 -	Identify and Retaining At-risk customers.
 -	Drive Engagement
+  
+## Problem Statement
+Ratafar Mall aims to classify its customers into four segments based on their purchasing habits. This will enable them to identify valued customers, and those needing immediate attention, and create targeted marketing campaigns tailored to each group, promoting their products more effectively.
