@@ -18,6 +18,8 @@ Ratafar Mall aims to classify its customers into four segments based on their pu
 
 The data contains 11 columns and 400 rows. The columns are Customer ID, Customer Name, Date of Purchase, Amount, Date of Birth, Gender, Job title, Education, Income, Total Orders, and Picture URL. There are 25 duplicated rows which were removed from the data.
 
+![](https://github.com/Ratafar22/Customer-Segmentation-RFM-Analysis/blob/main/Pictures/DataPreview.JPG)
+
 ### Data Transformation
 
 Additional 2 new columns were created to calculate the customers' age and the Number of Days since the Last Order.
