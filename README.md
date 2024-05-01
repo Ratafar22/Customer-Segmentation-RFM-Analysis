@@ -80,6 +80,7 @@ A table containing the RFM score and Segment was created. This will enable us to
 
 ### Analyze and Visualize the Data
 
-After calculating the customers' RFM scores, it was pertinent to analyse and visualise the data to understand the distribution of customers based on each segment.
+After calculating the customers' RFM scores, it was pertinent to analyse and visualise the data to understand the distribution of customers according to the segments.
 
-
+## Recommendation
+- 
