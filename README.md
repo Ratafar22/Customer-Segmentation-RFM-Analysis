@@ -13,6 +13,7 @@ Some of its benefits include:
 Ratafar Mall aims to classify its customers into four segments based on their purchasing habits. This will enable them to identify valued customers, and those needing immediate attention, and create targeted marketing campaigns tailored to each group, promoting their products more effectively.
 
 ## Steps Involved in the Analysis
+This project employs the use of Microsoft Power BI to clean, transform, Analyse and Visualise the data. The steps taken to achieve these are described below:
 
 ### Data Cleaning 
 
