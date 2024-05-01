@@ -16,7 +16,7 @@ Ratafar Mall aims to classify its customers into four segments based on their pu
 
 ### Data Cleaning 
 
-The data contains 11 columns and 400 rows. The columns are Customer ID, Customer Name, Date of Purchase, Amount, Date of Birth, Gender, Job title, Education, Income, Total Orders, and Picture URL. There are 25 duplicated rows which were removed from the data.
+The data contains 11 columns and 400 rows. The columns are Customer ID, Customer Name, Purchase Date, Amount, Birth, Gender, Job title, Education, Income, Total Orders, and Picture URL. There are 25 duplicated rows which were removed from the data.
 
 ![](https://github.com/Ratafar22/Customer-Segmentation-RFM-Analysis/blob/main/Pictures/DataPreview.JPG)
 
@@ -33,7 +33,8 @@ DATEDIFF(
 ```
 ### Percentrank the customers
 
-The recency value, frequency value and monetary value columns were created to rank between 1 and 5. This enables us to have the same base value for each metric. 
+The recency value, frequency value and monetary value columns were created and ranked between 1 and 5. This enables us to have the same base value for each metric. 
+The formulas used to create these columns are as follows:
 ```sql
 Recency = 
 SWITCH(
@@ -67,7 +68,13 @@ SWITCH(
 ```
 ### Percentrank the RFM Score
 
-Each customer's RFM value was added together and ranked between the values of 1 and 5 to calculate the RFM Score of each customer.
+Each customer's RFM value was added together and ranked between the values of 1 and 5 to calculate the RFM Score of each customer. The table below shows the preview of the newly calculated columns.
+
+![](https://github.com/Ratafar22/Customer-Segmentation-RFM-Analysis/blob/main/Pictures/CalculatedColumns.JPG)
 
 ### Segments 
 A table containing the RFM score and Segment was created. This will enable us to know the segment each customer belongs to based on their RFM score.
+
+![](https://github.com/Ratafar22/Customer-Segmentation-RFM-Analysis/blob/main/Pictures/SegmentTable.JPG)
+
+
