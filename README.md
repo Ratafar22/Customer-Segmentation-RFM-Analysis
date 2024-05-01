@@ -22,7 +22,7 @@ The data contains 11 columns and 400 rows. The columns are Customer ID, Customer
 
 ### Data Transformation
 
-Additional 2 new columns were created to calculate the customers' age and the Number of Days since the Last Order.
+Two new columns were created to calculate the customers' age and the Number of Days since the Last Order.
 ```sql
 DateSinceLastOrder = 
 DATEDIFF(
