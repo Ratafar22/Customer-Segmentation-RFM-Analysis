@@ -78,4 +78,8 @@ A table containing the RFM score and Segment was created. This will enable us to
 
 ![](https://github.com/Ratafar22/Customer-Segmentation-RFM-Analysis/blob/main/Pictures/SegmentTable.JPG)
 
+### Analyze and Visualize the Data
+
+After calculating the customers' RFM scores, it was pertinent to analyse and visualise the data to understand the distribution of customers based on each segment.
+
 
