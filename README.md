@@ -82,5 +82,17 @@ A table containing the RFM score and Segment was created. This will enable us to
 
 After calculating the customers' RFM scores, it was pertinent to analyse and visualise the data to understand the distribution of customers according to the segments.
 
+## Insight
+Based on the analysis performed on 375 customers, some of the insights derived are as follows:
+-	16% of customers are champions.
+-	39% were classified as loyal customers.
+-	20% were identified as at-risk customers.
+-	25% of the customers fell into the immediate attention category.
+-	Top customers (champions), On average made 8 purchases, their average spending was $2000, and their last purchase occurred, on average 112 days ago. 
+
+- Potential Loyalists have made an average of 6 purchases while spending $1700 per purchase and their last purchase occurred an average of 196 days ago.
+
+- The combination of At-risk and Immediate Attention customer segments purchased 4 times on average, spending $1,504. These customers' recent purchases took place on average every 268 days.
+
 ## Recommendation
 - 
