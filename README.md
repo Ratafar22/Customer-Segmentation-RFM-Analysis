@@ -95,4 +95,29 @@ Based on the analysis performed on 375 customers, some of the insights derived a
 - The combination of At-risk and Immediate Attention customer segments purchased 4 times on average, spending $1,504. These customers' recent purchases took place on average every 268 days.
 
 ## Recommendation
-- 
+
+**Top Customers**
+
+-	Offer Incentives and Discounts:
+Exclusive offers should be given to these customers such as discounts on products, loyalty cards, cashback schemes, and free coupon points.
+
+-	Feature a customer of the week or month: 
+_Recognizing and celebrating loyal customers will enable them to feel loved and encourage them to keep patronising your business. This is also a good way to attract other customers who might be interested in patronising the business._
+
+-	Surprise and delight them:
+_Send them personalised birthday messages with a special deal, such as upgrading their orders or giving them a bonus product or service that exceeds their expectations._
+
+-	Reward them with an early access program:
+_Consider giving them access to a new product that hasn’t officially been launched to anyone else or services that aren’t opened to the public yet._
+
+**At Risk/Immediate Attention Customers**
+
+-	Feedback Survey:
+_A feedback survey should be carried out to help understand the causes of setbacks and ask how you can improve your services to them and ensure resolve any concerns raised by the customers._
+
+-	Launch Re-Engagement Campaign:
+Reach out to them with customized emails or messages containing unique offers or discounts to encourage them to make purchases.
+
+-	Win-Back Incentives: _Extend appealing win-back offers to customers who haven't made purchases recently. These could include discounts, free shipping, or bundled deals to entice their return._
+
+
