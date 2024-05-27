@@ -82,6 +82,10 @@ A table containing the RFM score and Segment was created. This will enable us to
 
 After calculating the customers' RFM scores, it was pertinent to analyse and visualise the data to understand the distribution of customers according to the segments.
 
+Below is the report of the analysis:
+
+![](https://github.com/Ratafar22/Customer-Segmentation-RFM-Analysis/blob/main/Pictures/Customer%20Segmentation-%20RFM1.jpg)
+
 ## Insight
 Based on the analysis performed on 375 customers, some of the insights derived are as follows:
 -	16% of customers are champions.
