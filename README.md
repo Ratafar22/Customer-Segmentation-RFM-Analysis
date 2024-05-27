@@ -2,12 +2,14 @@
 
 ## Introduction
 
-RFM Analysis is one of the most popular customer segmentation techniques to quantify customer transaction history. It considers the customers' purchasing habits including Recency- how recently the customer purchases, Frequency which is how often the customer purchases and Monetary value, which is the value of purchases.  RFM classifies customers based on their respective scores.
-Some of its benefits include:
--	Selecting customers for target mailing to reduce costs and improve sales.
--	Identifying customers to better promote and market your products and services.
--	Identify and Retaining At-risk customers.
--	Drive Engagement
+RFM Analysis is one of the most popular customer segmentation techniques to quantify customer transaction history. It considers the customers' purchasing habits including Recency- how recently a customer made a purchase, Frequency which is how often a customer makes a purchase and Monetary value, which is the total value of a customer's purchases.  RFM classifies customers by scoring customers across these dimensions.
+
+Benefits of RFM Analysis:
+
+Cost-Effective Targeting: Select customers for targeted mailing campaigns, reducing costs while boosting sales.
+Tailored Promotions: Identify customers to promote better and market your products and services, increasing relevance and engagement.
+Retention of At-Risk Customers: Spot at-risk customers early and take steps to retain them, enhancing customer loyalty.
+Driving Engagement: Create more personalized and effective engagement strategies based on customer behaviour
   
 ## Problem Statement
 Ratafar Mall aims to classify its customers into four segments based on their purchasing habits. This will enable them to identify valued customers, and those needing immediate attention, and create targeted marketing campaigns tailored to each group, promoting their products more effectively.
