@@ -7,8 +7,11 @@ RFM Analysis is one of the most popular customer segmentation techniques to quan
 Benefits of RFM Analysis:
 
 Cost-Effective Targeting: Select customers for targeted mailing campaigns, reducing costs while boosting sales.
+
 Tailored Promotions: Identify customers to promote better and market your products and services, increasing relevance and engagement.
+
 Retention of At-Risk Customers: Spot at-risk customers early and take steps to retain them, enhancing customer loyalty.
+
 Driving Engagement: Create more personalized and effective engagement strategies based on customer behaviour
   
 ## Problem Statement
